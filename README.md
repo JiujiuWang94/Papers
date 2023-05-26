@@ -1,2 +1,2 @@
 # Papers
-notes for peaper reading
+notes for paper reading
